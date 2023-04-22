@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE9CA075-E41C-49A2-A7F0-F291232C7FD2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF5E8D9F-21B4-4406-89DA-891127A22629"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Insta/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CF5E8D9F-21B4-4406-89DA-891127A22629 - cb2bb9892abbd545"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.TableViewCell.lblPlace.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuyao/Desktop/Spring2023-Smartphone/Insta/Insta/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "CF5E8D9F-21B4-4406-89DA-891127A22629 - f354f360720af961"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.TableViewCell.lblPlace.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuyao/Desktop/Spring2023-Smartphone/Insta/Insta/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "CF5E8D9F-21B4-4406-89DA-891127A22629 - 2b2c22a9697ee24c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.TableViewCell.lblPlace.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuyao/Desktop/Spring2023-Smartphone/Insta/Insta/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "CF5E8D9F-21B4-4406-89DA-891127A22629 - ebb4985ec0e40b43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.TableViewCell.lblPlace.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuyao/Desktop/Spring2023-Smartphone/Insta/Insta/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "CF5E8D9F-21B4-4406-89DA-891127A22629 - 71e2214c7922f2ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.TableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Insta.TableViewCell"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuyao/Desktop/Spring2023-Smartphone/Insta/Insta/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "CF5E8D9F-21B4-4406-89DA-891127A22629 - ba5bd31571cadb3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Insta.TableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Insta.TableViewCell&gt;"
+                  moduleName = "Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuyao/Desktop/Spring2023-Smartphone/Insta/Insta/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
